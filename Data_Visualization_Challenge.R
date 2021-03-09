@@ -1,9 +1,11 @@
 #Data Visualization Challenge
 
-happy = read.csv('2019.csv')
+happy = read.csv('Data/2019.csv')
 
 
 library("MASS")
+library(reshape2)
+library(ggplot2)
 
 happy$Country.or.region = NULL
 happy$Overall.rank = NULL
@@ -52,3 +54,4 @@ ggplot(data = melted_dia, aes(Var2, Var1, fill = value))+
     legend.direction = "horizontal")+
   guides(fill = guide_colorbar(barwidth = 7, barheight = 1,
                                title.position = "top", title.hjust = 0.5))
+

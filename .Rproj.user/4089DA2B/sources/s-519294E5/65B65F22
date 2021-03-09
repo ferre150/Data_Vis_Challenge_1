@@ -3,7 +3,7 @@
     "path": "~/Desktop/Data_Vis_Challenge_1/Data_Visualization_Challenge.R",
     "project_path": "Data_Visualization_Challenge.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "4203742469",
     "contents": "",
     "dirty": false,
     "created": 1615252909699.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "5,0",
-        "scrollLine": "0"
+        "cursorPosition": "25,16",
+        "scrollLine": "19"
     },
     "folds": "",
-    "lastKnownWriteTime": 1615241798,
+    "lastKnownWriteTime": 1615253148,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1615241798,
+    "last_content_update": 1615253148778,
     "read_only": false,
     "read_only_alternatives": []
 }
